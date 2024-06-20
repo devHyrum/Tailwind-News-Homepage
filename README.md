@@ -20,11 +20,11 @@ O projeto é uma página web que inclui um cabeçalho, um artigo principal, uma 
 1. Clone o repositório para a sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/devHyrum/Tailwind-News-Homepage.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd seu-repositorio
+    cd Tailwind-News-Homepage
     ```
 3. Instale as dependências:
     ```bash
