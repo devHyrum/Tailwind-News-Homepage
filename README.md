@@ -8,7 +8,7 @@ Este é um projeto web construído com React e estilizado com Tailwind CSS. O de
 
 ## Descrição
 
-O projeto é uma página web que inclui um cabeçalho, um artigo principal, uma seção de notícias e uma lista de artigos adicionais. O layout é projetado para ser limpo e moderno, com uma navegação fácil de usar. Design fue extraído de **[Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)**
+O projeto é uma página web que inclui um cabeçalho, um artigo principal, uma seção de notícias e uma lista de artigos adicionais. O layout é projetado para ser limpo e moderno, com uma navegação fácil de usar. Design foi extraído de **[Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)**
 
 ## Tecnologias Utilizadas
 - React
